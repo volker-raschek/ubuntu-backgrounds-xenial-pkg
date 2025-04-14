@@ -1,7 +1,6 @@
 # ubuntu-backgrounds-xenial
 
 ![AUR version](https://img.shields.io/aur/version/ubuntu-backgrounds-xenial?label=AUR)
-[![Build Status](https://drone.cryptic.systems/api/badges/volker.raschek/ubuntu-backgrounds-xenial-pkg/status.svg)](https://drone.cryptic.systems/volker.raschek/ubuntu-backgrounds-xenial-pkg)
 ![AUR votes](https://img.shields.io/aur/votes/ubuntu-backgrounds-xenial)
 
 This repository contains build files to build the Arch Linux package `ubuntu-backgrounds-xenial`. Instead of building the
